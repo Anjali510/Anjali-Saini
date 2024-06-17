@@ -1,14 +1,8 @@
-# Anjali-Saini
 
 ![image](https://github.com/Anjali510/Anjali-Saini/assets/58288857/e5f9e456-8b3a-436c-bb46-4342cc3c3d82)
 
-
-
-
 CONNECT WITH ME
-
-![image](https://github.com/Anjali510/Anjali-Saini/assets/58288857/f2d48a2c-d4d6-494c-86fc-6c2db7999d4a)
-
+![image](https://github.com/Anjali510/Anjali-Saini/assets/58288857/f9216229-5ea8-445c-be21-d42003d9ab83)
 
 🔭 I’m currently working on improving skills.
 🌱 I’m currently learning DataStructures & Algorithms.
